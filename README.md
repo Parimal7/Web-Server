@@ -1,3 +1,7 @@
-# A simple web server built from scratch in Python
+## Build Instructions
+Just clone the repo and use python to run any file.
 
-Work under way, choo-choo!
+## References
+1. https://ruslanspivak.com/lsbaws-part1/
+2. https://ruslanspivak.com/lsbaws-part2/
+3. https://ruslanspivak.com/lsbaws-part3/
